@@ -9,7 +9,7 @@ public class demoArrar {
         myArray[3]=56;
         myArray[4]=78;
         myArray[2]=9;// updating the values
-        // myArray[5]=98; ==>it will show an error ==> Index 5 out of bounds for length 5at demoArrar.main
+        // myArray[5]=98;it will show an error ==> Index 5 out of bounds for length 5at demoArrar.main
         
         System.out.print(Arrays.toString(myArray)); // it is methods to print the elements 
 
